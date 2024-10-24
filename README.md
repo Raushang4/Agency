@@ -11,7 +11,7 @@ If you want to learn how to create it please checkout following **Tutorial**👇
 []::
 
 ### Images of Website:
-![raushang4](https://github.com/raushang/Agency/blob/main/src/assets/Website%20Image-1.png)
+![raushang4](https://github.com/raushang/Agency/blob/main/src/assets/Website)
 ![raushang4](https://github.com/raushang4/Agency/blob/main/src/assets/Website%20Image-3.png)
 ![raushang4](https://github.com/raushang4/Agency/blob/main/src/assets/Website%20Image-2.png)
 
